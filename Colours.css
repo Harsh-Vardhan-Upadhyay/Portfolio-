@@ -1,5 +1,6 @@
 #Headings
 {
+    font-family: urbanist;
     color: #CAC8C8 ;
     font-size: 50px;
 }
@@ -8,6 +9,7 @@
 {
     color:#FFFFFF ;
     font-size: 30px;
+    font-family: urbanist;
 
 }
 
@@ -15,6 +17,8 @@
 {
     color: #A7A7A7;
     font-size: 22px ;
+    font-family: 'SF Pro Display', sans-serif;
+                                                
 }
 
 *{
