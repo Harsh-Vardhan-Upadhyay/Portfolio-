@@ -24,3 +24,9 @@
 *{
     background-color: #000000;
 }
+#same
+{
+    display: flex;
+    gap: 10px;
+    letter-spacing: -0.094em;
+}
