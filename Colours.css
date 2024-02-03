@@ -30,3 +30,31 @@
     gap: 10px;
     letter-spacing: -0.094em;
 }
+
+#Header
+{
+    border-style: solid;
+    border-radius: 1px;
+    border-color: #FFFFFF;
+    display: flex;
+    border-radius: 60px;
+    width: 1210px;
+    height: 66px;
+    align-items: center;
+align-content: center;
+
+
+
+}
+#b
+{
+ font-size: 20px;
+ font-family: 'SF Pro Display', sans-serif;
+
+}
+
+#b2
+{
+    font-size: 20px;
+    font-family: 'SF Pro Display', sans-serif;
+}
