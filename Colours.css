@@ -36,12 +36,14 @@
     border-style: solid;
 background-color: #171717;
     border-color: #CBCBCB;
+border-width: 0.5px;
     display: flex;
     border-radius: 60px;
     width: 1210px;
     height: 60px;
     align-items: center;
-    
+
+
 
     
 
@@ -51,15 +53,23 @@ background-color: #171717;
 
 }
 
+
+#head
+{
+    display: flex;
+    justify-content: center;
+}
 #c
 {
     background-color: #171717;
+    border-radius: 60px;
 }
 
 #d
 {
     background-color: #171717;
-
+    margin-left: 261px;
+    border-radius: 60px;
 }
 #b
 {
@@ -81,6 +91,7 @@ background-color: transparent;
     border-radius: 60px;
     border: none;
     background-color: transparent;
+
 
 }
 
@@ -109,4 +120,10 @@ background-color: transparent;
     margin-left: 100px
   }
 
-  
+  #circle {
+    background: #f66f00;
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+
+}
