@@ -45,6 +45,7 @@ border-width: 0.5px;
 
 
 
+
     
 
 
@@ -112,13 +113,17 @@ background-color: transparent;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 132px;
+    margin-top: 100px;
   }
 
 
   #about
   {
-    margin-left: 100px
+
+
+
+
+
   }
 
   #circle {
@@ -155,6 +160,7 @@ background-color: transparent;
     background-image: url(data:image/png;base64,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);
     background-repeat: no-repeat;
     background-position: center;
+
   }
   .vector-2-1-2110 {
 
@@ -170,14 +176,20 @@ background-color: transparent;
     box-sizing: border-box;
     margin-left: 180px;
 margin-top: -50px;
+
   }
 
   .rec
   {
-    background: #ffffff;
+    background: #383838;
     border-radius: 38.24px;
     width: 104.98px;
     height: 45px;
+    display: flex;
+    text-align: center;
+
+    justify-content: center;
+    align-items: center;
 
 
   }
@@ -186,7 +198,8 @@ margin-top: -50px;
   {
     display: flex;
     justify-content: center;
-    padding-top: 100px;
+    padding-top: 60px;
+    
   }
 
 
@@ -196,7 +209,7 @@ margin-top: -50px;
   .nodeBg-84340 {
     width: 100%;
     height: 100%;
-    position: absolute;
+
     top: 0px;
     left: 0px;
     opacity: 1;
@@ -207,11 +220,10 @@ margin-top: -50px;
     background-position: center;
   }
   .vector-1-1-2520 {
-    position: absolute;
+
     width: 31.50067138671875px;
     height: 32.50054931640625px;
-    top: 226.99945068359375px;
-    left: 364.99945068359375px;
+   
     opacity: 1;
     z-index: 0;
     transform: rotate(0deg);
@@ -219,3 +231,14 @@ margin-top: -50px;
     overflow: hidden;
     box-sizing: border-box;
   }
+
+  #hel
+  {
+    background-color: transparent;
+    
+   font-family: urbanist;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+
+ 
