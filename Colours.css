@@ -86,8 +86,24 @@ background-color: transparent;
     height: 405.89px;
     background-color: #f79a4e;
     border-radius: 50rem 50rem 0 0;
+    display: flex;
+    justify-content: center;
     align-items: center;
+    align-items:flex-end ;
 
+  }
+
+  #image
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  #about
+  {
+    margin-left: 100px
   }
 
   
