@@ -113,9 +113,28 @@ background-color: transparent;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 85px;
   }
 
+  #im1
+  {
+   
+    width: 1280px;
+  }
+
+#im2
+{
+  display: flex;
+  justify-content: center;
+}
+
+#bio1
+{
+  position: absolute;
+margin-top: -400px ;
+margin-left: 90px;
+background-color: transparent;
+}
 
   #about
   {
@@ -177,8 +196,24 @@ margin-top: 30px;
 #com
 {
     display: flex;
+
     justify-content: center;
     margin-top: -40px;
+    
+   
+
+
+}
+
+#cc
+{
+display: flex;
+justify-content: center;
+
+}
+
+#comcom
+{
 
 }
 #iam
@@ -214,8 +249,12 @@ margin-top: 30px;
     transform-origin: 76.44384765625px 93.763916015625px;
     overflow: hidden;
     box-sizing: border-box;
-    margin-left: 180px;
-margin-top: -50px;
+    border-style: solid;
+    margin-right: -19px ;
+    margin-top: 20px;
+background-color: transparent;
+
+
 
   }
 
