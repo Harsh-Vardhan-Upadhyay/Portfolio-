@@ -120,11 +120,51 @@ background-color: transparent;
   #about
   {
 
+    width: 1280px;
+    height: 331px;
+    display: flex;
+    flex-direction: column;
 
 
+
+    border-style: solid;
+    border-color: #A7A7A7;
 
 
   }
+
+  #ac
+  {
+    display: flex;
+    justify-content: center;
+  }
+#skill
+{
+  border-style: solid;
+  border-color: #ffffff;
+  width: 1280px;
+  display: flex;
+  justify-content: space-between;
+    
+}
+
+#sc
+{
+  display: flex;
+  justify-content: center;
+
+
+
+}
+
+#fe
+{
+display: flex;
+
+flex-direction: column;
+margin-top: 30px;
+
+}
 
   #circle {
     background: #f66f00;
