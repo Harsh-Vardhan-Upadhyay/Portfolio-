@@ -155,6 +155,15 @@ background-color: transparent;
     display: flex;
     flex-direction: column;
 
+    background-image: radial-gradient(
+    ellipse 589.2890885851167px 156.98884328233046px at 632.4998737759192px 0.000007969291886067431px,
+    #feb273ff 10%,
+    #000f 100%
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  overflow: hidden;
 
 
     border-style: solid;
@@ -364,3 +373,4 @@ background-color: transparent;
   display: flex;
   justify-content: center;
  }
+
