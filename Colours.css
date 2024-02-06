@@ -156,18 +156,16 @@ background-color: transparent;
     flex-direction: column;
 
     background-image: radial-gradient(
-    ellipse 589.2890885851167px 156.98884328233046px at 632.4998737759192px 0.000007969291886067431px,
-    #feb273ff 10%,
-    #000f 100%
+    ellipse 580px 155.98884328233046px at 632.4998737759192px 0.000007969291886067431px,
+    rgba(254, 178, 115, 0.593) 1%,
+    #000f 90%
   );
   background-position: center;
   background-repeat: no-repeat;
   background-size: auto;
   overflow: hidden;
 
-
-    border-style: solid;
-    border-color: #A7A7A7;
+    
 
 
   }
@@ -179,8 +177,7 @@ background-color: transparent;
   }
 #skill
 {
-  border-style: solid;
-  border-color: #ffffff;
+  
   width: 1280px;
   display: flex;
   justify-content: space-between;
@@ -373,4 +370,52 @@ background-color: transparent;
   display: flex;
   justify-content: center;
  }
+
+
+ #circle123 {
+  background: #2e2e2e80;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-left: 30px;
+  margin-top: 100px;
+  filter: blur(50px);
+  
+}
+
+#CI123
+{
+  background: #303030ee;
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+  margin-left: 100px;
+  margin-top: -80px;
+  filter: blur(90px);
+}
+
+#cir123
+{
+  background: #2E2E2E;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+margin-left: 80px;
+margin-top: -150px;
+  
+
+
+}
+#cir124
+{
+  background: #2E2E2E;
+  border-radius: 50%;
+  width: 298px;
+  height: 298px;
+  margin-left: 200px;
+  margin-top: 20px;
+  position: absolute;
+
+}
 
