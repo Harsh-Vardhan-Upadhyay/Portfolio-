@@ -33,3 +33,12 @@ const focus = (elem, index) => {
     icons[next2].style.transform = "scale(1.1)";
   }
 };
+
+
+
+
+
+
+
+
+
