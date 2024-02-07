@@ -70,7 +70,7 @@ border-width: 0.5px;
 #d
 {
     background-color: #171717;
-    margin-left: 261px;
+    margin-left: 110px;
     border-radius: 60px;
 }
 #b
@@ -207,6 +207,7 @@ margin-top: 30px;
     border-radius: 50%;
     width: 42px;
     height: 42px;
+    margin-left: 150px;
 
 }
 
