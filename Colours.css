@@ -47,6 +47,7 @@ border-width: 0.5px;
 
 
 
+
     
 
 
@@ -60,6 +61,8 @@ border-width: 0.5px;
 {
     display: flex;
     justify-content: center;
+   
+    
 }
 #c
 {
@@ -346,10 +349,7 @@ background-color: transparent;
     color: #FFFFFF;
   }
 
-  #font
-  {
-
-  }
+ 
 
  #hellostar
  {
